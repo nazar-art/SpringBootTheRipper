@@ -1,0 +1,5 @@
+prod:
+  mails:
+    - demo@gmail.com
+    - spring.boot@gmail.com
+    - mail.demo@gmail.com
